@@ -75,6 +75,10 @@ a{
     box-shadow: 0 10px 10px rgba(0,0,0,0.5);
 }
 
+.inform:hover{
+    box-shadow: 0 20px 20px rgba(0,0,0,0.5);
+    transition-delay: 50ms;
+}
 .na_inf{
     width: 100%;
     background-color: #1A2A40;
@@ -135,6 +139,11 @@ a{
     padding-left: 15px;
 }
 
+.avt:hover{
+    box-shadow: 0 20px 20px rgba(0,0,0,0.5);
+    transition-delay: 50ms;
+}
+
 .dop_zag{
     text-align: center;
     background-color: #5E6D8C;
@@ -144,6 +153,11 @@ a{
     border-radius: 5px;
     color: #F2F2F2;
 
+}
+
+.dop_zag:hover{
+    box-shadow: 0 5px 5px rgba(0,0,0,0);
+    transition-delay: 50ms;
 }
 
 .pic1{
